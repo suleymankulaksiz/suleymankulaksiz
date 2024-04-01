@@ -6,7 +6,7 @@
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A2M2oyeno5OGpwZDlsZmQ3NzF0NWFhOTE3Mzh4N2VjeWN1MHFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif"  />
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9F%91%8BHey+there+" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&random=false&width=435&lines=%F0%9F%91%8BHey+there" alt="Typing SVG" /></a>
 <p align="left">I'm Süleyman Kulaksız, QA Tester from Manisa/Turkey 🇹🇷</p>
 
 ###
