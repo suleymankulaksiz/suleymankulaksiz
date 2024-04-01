@@ -1,5 +1,5 @@
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%91%8BHey+there+" alt="Typing SVG" /></a>
+
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Süleyman Kulaksız, QA Tester from Manisa/Turkey 🇹🇷</p>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=true&width=435&lines=%F0%9F%91%8BHey+there+;I'm+S%C3%BCleyman+Kulaks%C4%B1z%2C+QA+Tester+from+Manisa%2FTurkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" /></a>
 
 ###
 # <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%AB+About+Me%3A" alt="Typing SVG" /></a>
