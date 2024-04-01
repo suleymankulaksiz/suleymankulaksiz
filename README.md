@@ -10,17 +10,17 @@
 <p align="left">I'm Süleyman Kulaksız, QA Tester from Manisa/Turkey 🇹🇷</p>
 
 ###
-# 💫 About Me:
+# <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%AB+About+Me%3A" alt="Typing SVG" /></a>
 <p align="left">👀 I’m interested in Software Testing<br>🌱 I’m currently learning Python, SQL, Selenium, Postman ...</p>
 
 ###
 
 
 
-## 🌐 Socials:
+## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%8C%90+Socials%3A" alt="Typing SVG" /></a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/slymnn1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slyymn1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suleymankulaksiz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xaviersk_) 
 
-# 💻 Tech Stack:
+# <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
