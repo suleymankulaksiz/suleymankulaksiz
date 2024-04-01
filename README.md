@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boogaloo&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=Hey+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ###
 
