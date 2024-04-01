@@ -1,3 +1,5 @@
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A2M2oyeno5OGpwZDlsZmQ3NzF0NWFhOTE3Mzh4N2VjeWN1MHFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif' style="height: 200px;"/>
+
 # 💫 About Me:
  👋 I'm Süleyman KULAKSIZ,<br>👀 I’m interested in Software Testing<br>🌱 I’m currently learning Python, SQL, Selenium, Postman ...
 
@@ -13,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sslymn&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sslymn&icon=0&color=8)](https://visitcount.itsvg.in)
