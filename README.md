@@ -1,4 +1,6 @@
 
+<body style="background-color: #32CD32;">
+
 <h1 align="left">Hey there 👋</h1>
 
 ###
@@ -59,6 +61,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sslymn&&style=flat-square" align="center" />
 </div> 
-<body style="background-color: #32CD32;">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
