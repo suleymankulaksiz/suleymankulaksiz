@@ -55,6 +55,8 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sslymn&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sslymn&&style=flat-square" align="center" />
+</div> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
