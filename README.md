@@ -23,6 +23,10 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+Tech+Stack%3A" alt="Typing SVG" /></a>
 
 <div align="left">
+  <img src="file:///C:/Users/slyma/Downloads/apachejmeter-svgrepo-com.svg" height="40" alt="jmeter logo"  />
+  <img width="12" />
+  <img src="file:///C:/Users/slyma/Downloads/jenkins-svgrepo-com.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
