@@ -11,7 +11,7 @@
 
 ###
 # <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%AB+About+Me%3A" alt="Typing SVG" /></a>
-<p align="left">👀 I’m interested in Software Testing<br>🌱 I’m currently learning Python, SQL, Selenium, Postman ...</p>
+<p align="left">👀 I’m interested in Software Testing<br>🌱 I’m currently learning Python, Java, SQL, Selenium, Postman ...</p>
 
 ###
 
